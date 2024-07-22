@@ -3,6 +3,11 @@
 /node_modules
 /.pnp
 .pnp.js
+
+#pnpm
+pnpm-lock.yaml
+
+#Bun
 bun.lockb
 
 # testing
